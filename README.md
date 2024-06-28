@@ -1,2 +1,2 @@
 # demo
-This is my firdt git hub repository
+This is my first git hub repository
